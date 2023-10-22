@@ -1,0 +1,138 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/**
+@font-face {
+    font-family: 'EntezareZohoor2';
+    src: url('fonts/EntezareZohoor2.eot'), 
+         url('fonts/EntezareZohoor2.ttf') format('truetype'), 
+         url('fonts/EntezareZohoor2.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+#newfont{
+    font-family:'EntezareZohoor2';
+}
+*/
+
+@font-face {
+    font-family: TaameyMedium;
+    src: url('../../public/fonts/taameymedium.ttf');
+  }
+
+  @font-face {
+    font-family: TaameyBold;
+    src: url('../../public/fonts/taameybold.ttf');
+  }
+
+  @font-face {
+    font-family: Miriam;
+    src: url('../../public/fonts/miriam1.ttf');
+  }
+
+  @font-face {
+    font-family: Yid;
+    src: url('../../public/fonts/yid.woff');
+  }
+  
+  @font-face {
+    font-family: Mirai;
+    src: url('../../public/fonts/mirai.TTF');
+  }
+
+
+  /* @font-face {
+    font-family: ;
+    src: url('../../public/fonts/');
+  } */
+
+  @font-face {
+    font-family: Vet400;
+    src: url('../../public/fonts/be-vietnam-pro-latin-400.woff2');
+  }
+
+  @font-face {
+    font-family: Vet500;
+    src: url('../../public/fonts/be-vietnam-pro-latin-500.woff2');
+  }
+
+  @font-face {
+    font-family: Vet700;
+    src: url('../../public/fonts/be-vietnam-pro-latin-700.woff2');
+  }
+
+  @font-face {
+    font-family: Vet900;
+    src: url('../../public/fonts/be-vietnam-pro-latin-900.woff2');
+  }
+
+  @font-face {
+    font-family: Jetbrains;
+    src: url('../../public/fonts/jetbrains.woff');
+  }
+
+  @font-face {
+    font-family: j1;
+    src: url('../../public/fonts/fonts/1.otf');
+  }
+
+
+  @font-face {
+    font-family: j7;
+    src: url('../../public/fonts/fonts/7.otf');
+  }
+
+
+  @font-face {
+    font-family: j10;
+    src: url('../../public/fonts/fonts/10.otf');
+  }
+
+
+  @font-face {
+    font-family: j11;
+    src: url('../../public/fonts/fonts/geikai.ttf');
+  }
+
+
+  @font-face {
+    font-family: j12;
+    src: url('../../public/fonts/fonts/jun.otf');
+  }
+
+
+  @font-face {
+    font-family: j13;
+    src: url('../../public/fonts/fonts/kaisho.otf');
+  }
+
+  @font-face {
+    font-family: j14;
+    src: url('../../public/fonts/fonts/kocho.otf');
+  }
+
+  @font-face {
+    font-family: j15;
+    src: url('../../public/fonts/fonts/samurai.ttf');
+  }
+
+  @font-face {
+    font-family: j16;
+    src: url('../../public/fonts/fonts/kodai.otf');
+  }
+
+  @font-face {
+    font-family: j17;
+    src: url('../../public/fonts/fonts/kyoka.otf');
+  }
+
+  @font-face {
+    font-family: j18;
+    src: url('../../public/fonts/fonts/mirai.TTF');
+  }
+
+  @font-face {
+    font-family: flexa;
+    src: url('../../public/fonts/GT-Flexa-GX.woff2');
+  }
